@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 0 18px;
+}
+
+header h1{
+    cursor: pointer;
+}
+
+header nav{
+    display: flex;
+    gap: 5px;
+}
+
+header{
+}
+
+main{
+    
+}
